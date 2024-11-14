@@ -18,21 +18,31 @@
 
 
 ### 🔥 Bio-Data 
+MOHAMED IFQIR
 
 alias: "Digital Dreamer"
-occupation: "Full Stack Dev & AI Enthusiast"
+
+occupation: "AI & ML Engineer || Tech Enthusiast"
+
 skills:
-  - Cyber Augmentation
-  - Neon Code Synthesis
-  - Virtual Network Architect
-currently_learning: "Mastering the Art of Cybersecurity 🛡️"
+  - AI development.
+  - GEN AI, NLP, LLMs.
+  - Machine Learning || Data science
+  - Software development || Web development
+currently_learning: "Mastering the Art of AI software dev 🛡️"
 
 ---
 
 ### 🛠️ Core System Configuration
 
-- **Languages:** Python, C++, JavaScript
-- **Frameworks:** React, Node.js, Django
+- **Languages:** Python, C++, JavaScript, Java, C, R.
+- **Frameworks:** ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg) TensorFlow &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png) PyTorch &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) Keras &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) Scikit-Learn &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+![XGBoost](https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo-small.png) XGBoost &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face Transformers
+
 - **Favorite Tech:** AI, ML, Blockchain
 - **Status:** Powering up for the next gig ⚡️
 
