@@ -1,8 +1,3 @@
-Creating a cyberpunk-themed GitHub profile README can give your profile a sleek, futuristic vibe. Here’s a markdown template you can use for your README. It includes vibrant colors, ASCII art, and icons that channel the cyberpunk aesthetic:
-
----
-
-```markdown
 <!-- Cyberpunk-themed GitHub Profile README -->
 
 <h1 align="center">
@@ -21,10 +16,9 @@ Creating a cyberpunk-themed GitHub profile README can give your profile a sleek,
   <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20Loves%20Working%20With-ML%20%7C%20AI%20%7C%20Blockchain-%2300ffbf?style=for-the-badge" />
 </p>
 
----
 
 ### 🔥 Bio-Data 
-```yaml
+
 alias: "Digital Dreamer"
 occupation: "Full Stack Dev & AI Enthusiast"
 skills:
@@ -32,7 +26,6 @@ skills:
   - Neon Code Synthesis
   - Virtual Network Architect
 currently_learning: "Mastering the Art of Cybersecurity 🛡️"
-```
 
 ---
 
