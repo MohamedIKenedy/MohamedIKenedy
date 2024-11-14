@@ -18,18 +18,28 @@
 
 
 ### 🔥 Bio-Data 
-MOHAMED IFQIR
+# 🌐 MOHAMED IFQIR 🌐
 
-#### Alias: "Digital Dreamer"
+#### ⚡ Alias: "Digital Dreamer" ⚡
 
-#### Occupation: "AI & ML Engineer || Tech Enthusiast"
+#### 💼 Occupation: "AI & ML Engineer || Tech Enthusiast" 💼
 
-#### Skills:
-  - AI development.
-  - GEN AI, NLP, LLMs.
-  - Machine Learning || Data science
-  - Software development || Web development
-#### Currently_learning : "Mastering the Art of AI software dev 🛡️"
+---
+
+### 🧠 Skills:
+- **⚙️ AI Development**
+- **💻 GEN AI, NLP, LLMs**
+- **🔍 Machine Learning || Data Science**
+- **🌐 Software Development || Web Development**
+
+---
+
+#### 🧪 Currently Learning: "Mastering the Art of AI Software Dev 🛡️" 
+
+---
+
+> _"Embracing the digital neon waves, crafting tomorrow's tech in the glow of algorithms and electric dreams."_ ✨
+
 
 ---
 
