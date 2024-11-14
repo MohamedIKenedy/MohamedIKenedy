@@ -1,12 +1,12 @@
 <!-- Cyberpunk-themed GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=Welcome+to+My+Neon+World;I+Am+a+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=Welcome+to+My+Neon+World;I+Am+Mohamed+IFQIR+a+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
 </h1>
 
 <!-- ASCII art for cyberpunk aesthetic -->
 <p align="center">
-  <img src="[https://i.imgur.com/AeJ1Xaf.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddb7c241139069.579a151837fb2.gif)" width="600" alt="Cyberpunk ASCII Art">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddb7c241139069.579a151837fb2.gif" width="600" alt="Cyberpunk ASCII Art">
 </p>
 
 ---
