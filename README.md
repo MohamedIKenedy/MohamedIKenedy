@@ -20,16 +20,16 @@
 ### 🔥 Bio-Data 
 MOHAMED IFQIR
 
-alias: "Digital Dreamer"
+**Alias**: "Digital Dreamer"
 
-occupation: "AI & ML Engineer || Tech Enthusiast"
+**Occupation**: "AI & ML Engineer || Tech Enthusiast"
 
-skills:
+**skills**:
   - AI development.
   - GEN AI, NLP, LLMs.
   - Machine Learning || Data science
   - Software development || Web development
-currently_learning: "Mastering the Art of AI software dev 🛡️"
+**Currently_learning**: "Mastering the Art of AI software dev 🛡️"
 
 ---
 
