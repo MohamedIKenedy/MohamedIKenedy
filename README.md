@@ -36,14 +36,9 @@ currently_learning: "Mastering the Art of AI software dev 🛡️"
 ### 🛠️ Core System Configuration
 
 - **Languages:** Python, C++, JavaScript, Java, C, R.
-- **Frameworks:** ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg) TensorFlow &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png) PyTorch &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-![Keras](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) Keras &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) Scikit-Learn &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-![XGBoost](https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo-small.png) XGBoost &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) Hugging Face Transformers
-
-- **Favorite Tech:** AI, ML, Blockchain
+- **Frameworks:** TensorFlow, Pytorch, Keras, Scikit-Learn, Hugging Face Transformers, OpenCV.
+- **Favorite Tech:** AI, ML, Software development
+- **Big Data**: Apache Hadoop, Kafka, Spark
 - **Status:** Powering up for the next gig ⚡️
 
 ---
@@ -53,6 +48,7 @@ currently_learning: "Mastering the Art of AI software dev 🛡️"
 - 💾 Curating code in **the shadows**
 - 🌌 Making connections between **the virtual and the real**
 - 🔧 Building **intelligent and immersive experiences**
+- 🎨 Digital designer & artist ✏️ | Skilled in pixel art 🟦 and traditional sketching ✍️ [ Just a hobby to be honest ]
 
 ---
 
@@ -61,8 +57,8 @@ currently_learning: "Mastering the Art of AI software dev 🛡️"
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURUSERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@domain.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-ifqir-329840242/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedifqir99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/YOURUSERNAME" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
