@@ -6,7 +6,7 @@
 
 <!-- ASCII art for cyberpunk aesthetic -->
 <p align="center">
-  <img src="https://i.imgur.com/AeJ1Xaf.png" width="600" alt="Cyberpunk ASCII Art">
+  <img src="[https://i.imgur.com/AeJ1Xaf.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddb7c241139069.579a151837fb2.gif)" width="600" alt="Cyberpunk ASCII Art">
 </p>
 
 ---
