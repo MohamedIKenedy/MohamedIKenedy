@@ -1,7 +1,7 @@
 <!-- Cyberpunk-themed GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=Welcome+to+My+Neon+World;I+Am+Mohamed+IFQIR;A+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=I+Am+Mohamed+IFQIR+Welcome+to+My+Neon+World;;A+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
 </h1>
 
 <!-- ASCII art for cyberpunk aesthetic -->
