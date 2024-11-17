@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1%20Currently%20Hacking%20On-C++%20%7C%20JavaScript%20%7C%20Python-%23ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20Loves%20Working%20With-ML%20%7C%20AI%20%7C%20Blockchain-%2300ffbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20Loves%20Working%20With-ML%20%7C%20AI%20%7C%20Software-%2300ffbf?style=for-the-badge" />
 </p>
 
 
