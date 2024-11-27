@@ -20,7 +20,7 @@
 ### 🔥 Bio-Data 
 # 🌐 MOHAMED IFQIR 🌐
 
-#### ⚡ Alias: "Digital Dreamer" ⚡
+#### ⚡ Alias: "Cyber Warrior" ⚡
 
 #### 💼 Occupation: "AI & ML Engineer || Tech Enthusiast" 💼
 
