@@ -5,11 +5,12 @@
 </h1>
 
 
-<h3 align="center">
-  <a href="https://medifqir.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=20&color=00FFF7&center=true&vCenter=true&width=400&lines=Visit+My+Website;Welcome+to+My+Neon+World!" alt="Visit My Website">
+<h3 align="center" style="color: #00FFF7; font-family: Electrolize; font-size: 20px;">
+  <a href="https://medifqir.vercel.app/" style="color: #00FFF7; text-decoration: none;">
+    Visit My Website
   </a>
 </h3>
+
 
 
 
