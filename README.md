@@ -4,11 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=I+Am+Mohamed+IFQIR;Welcome+to+My+Neon+World;A+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
 </h1>
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://medifqir.vercel.app/" style="color: #00FFFF; text-decoration: none; font-weight: bold; font-size: 20px;">
-    Visit My Website
-  </a>
-</div>
+[![Visit my website](https://via.placeholder.com/728x90.png?text=Visit+My+Website)](https://medifqir.vercel.app/)
+
 
 
 <!-- ASCII art for cyberpunk aesthetic -->
