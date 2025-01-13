@@ -4,7 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=I+Am+Mohamed+IFQIR;Welcome+to+My+Neon+World;A+Cyber+Warrior;Exploring+the+Depths+of+Code!" alt="Title">
 </h1>
 
-[![Visit my website](https://via.placeholder.com/728x90.png?text=Visit+My+Website)](https://medifqir.vercel.app/)
+
+<h3 align="center">
+  <a href="https://medifqir.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=20&color=00FFF7&center=true&vCenter=true&width=400&lines=Visit+My+Website;Welcome+to+My+Neon+World!" alt="Visit My Website">
+  </a>
+</h3>
 
 
 
