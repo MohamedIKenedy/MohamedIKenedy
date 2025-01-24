@@ -5,10 +5,11 @@
 </h1>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=Visit+My+Website;medifqir.vercel.app" alt="Website Link" onclick="window.open('https://medifqir.vercel.app/', '_blank');" style="cursor: pointer;">
-</h1>
-
+<p align="center">
+ <a href="http://medifqir.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Visit%20My%20Website-Cyber%20Portfolio-00FFF7?style=for-the-badge&logo=web&logoColor=white" alt="Website Portfolio">
+ </a>
+</p>
 
 
 <!-- ASCII art for cyberpunk aesthetic -->
