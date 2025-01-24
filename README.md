@@ -5,11 +5,9 @@
 </h1>
 
 
-<h3 align="center">
-  <a href="https://medifqir.vercel.app/" style="color: #00FFF7; text-decoration: none; font-family: Arial, sans-serif; font-size: 20px; padding: 10px 20px; border: 2px solid #00FFF7; border-radius: 10px; display: inline-block;">
-    Visit My Website
-  </a>
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=40&color=00FFF7&center=true&vCenter=true&width=550&lines=Visit+My+Website;medifqir.vercel.app" alt="Website Link" onclick="window.open('https://medifqir.vercel.app/', '_blank');" style="cursor: pointer;">
+</h1>
 
 
 
