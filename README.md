@@ -5,23 +5,10 @@
 </h1>
 
 
-<h3 align="center" style="font-family: Arial, sans-serif; margin: 20px 0;">
-    <a href="https://medifqir.vercel.app/" style="
-        color: #00FFF7; 
-        text-decoration: none;
-        font-size: 24px;
-        padding: 10px 20px;
-        border: 3px solid #00FFF7;
-        border-radius: 10px;
-        transition: all 0.3s ease;
-        display: inline-block;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        background: linear-gradient(45deg, rgba(0,255,247,0.1) 0%, rgba(0,255,247,0.3) 100%);
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    ">
-        Visit My Website
-    </a>
+<h3 align="center">
+  <a href="https://medifqir.vercel.app/" style="color: #00FFF7; text-decoration: none; font-family: Arial, sans-serif; font-size: 20px; padding: 10px 20px; border: 2px solid #00FFF7; border-radius: 10px; display: inline-block;">
+    Visit My Website
+  </a>
 </h3>
 
 
