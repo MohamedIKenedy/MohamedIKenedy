@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="http://medifqir.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Visit%20My%20Website-Cyber%20Portfolio-00FFF7?style=for-the-badge&logo=web&logoColor=white" alt="Website Portfolio">
+   <img src="https://img.shields.io/badge/Visit%20My%20Website-Med%20Portfolio-00FFF7?style=for-the-badge&logo=web&logoColor=white" alt="Website Portfolio">
  </a>
 </p>
 
