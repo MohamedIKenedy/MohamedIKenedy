@@ -28,7 +28,7 @@
 ### 🔥 Bio-Data 
 # 🌐 MOHAMED IFQIR 🌐
 
-#### My website coming soon. Stay Tuned!
+#### Check out my website
 
 #### ⚡ Alias: "Digital Dreamer" ⚡
 
