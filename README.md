@@ -55,7 +55,7 @@
 
 ### 🛠️ Core System Configuration
 
-- **Languages:** Python, C++, JavaScript, Java, C, R.
+- **Languages:** Python, C++, JavaScript|Typescript, Java, C, R.
 - **Frameworks:** TensorFlow, Pytorch, Keras, Scikit-Learn, Hugging Face Transformers, OpenCV.
 - **Favorite Tech:** AI, ML, Software development
 - **Big Data**: Apache Hadoop, Kafka, Spark
