@@ -32,7 +32,7 @@
 
 #### ⚡ Alias: "Digital Dreamer" ⚡
 
-#### 💼 Occupation: "AI & ML Engineer || Tech Enthusiast" 💼
+#### 💼 Occupation: "AI & ML Engineer || Tech Enthusiast || AI fanatic" 💼
 
 ---
 
