@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <a href="http://medifqir.vercel.app/" target="_blank">
+ <a href="[http://medifqir.vercel.app/](https://medifqir.42web.io/)" target="_blank">
    <img src="https://img.shields.io/badge/Visit%20My%20Website-Med%20Portfolio-00FFF7?style=for-the-badge&logo=web&logoColor=white" alt="Website Portfolio">
  </a>
 </p>
