@@ -1,6 +1,6 @@
 <div align="center">
 
-# Med IFQIR
+# Mohamed IFQIR
 
 ### AI & ML Engineer | Data Scientist | Software Developer
 
