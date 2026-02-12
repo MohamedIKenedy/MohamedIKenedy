@@ -4,7 +4,7 @@
 
 ### AI & ML Engineer | Data Scientist | Software Developer
 
-<img src="https://i.imgur.com/4qoMkfx.gif" width="400" />
+<img src="https://i.imgur.com/4qoMkfx.gif" width="800" />
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-medifqir.42web.io-0A66C2?style=for-the-badge)](https://medifqir.42web.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ifqir-329840242/)
