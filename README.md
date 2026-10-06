@@ -2,7 +2,7 @@
 
 # Mohamed IFQIR
 
-### AI & ML Engineer | Data Scientist | Software Developer
+### ML / MLOps Engineer | Data Engineering | AI Software Development 
 
 <img src="https://i.imgur.com/4qoMkfx.gif" width="900" />
 
